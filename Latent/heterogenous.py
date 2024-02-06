@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import math
 from sklearn.model_selection import train_test_split
-from Latent.utils import merge_matrix, merge_matrix2, merge_matrix3, gan
+from Latent.utils import merge_matrix2
 from Latent.init import LF
 from Latent.utils import predict_test
 

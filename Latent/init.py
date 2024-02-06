@@ -23,7 +23,6 @@ def category_list(category_all):
     #new_dict = dict(filtered)
     #print(new_dict)
     c = new_dict.keys()
-    print("카테고리 개수",str(len(c)))
     return c
 
 
