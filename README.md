@@ -19,5 +19,4 @@ The aim of this paper is to propose a Cross-domain Recommendation (CDR) model ta
   issn    = {0219-3116},
   note    = {Park2024}
 }
-
 ```
